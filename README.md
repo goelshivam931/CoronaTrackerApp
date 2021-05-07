@@ -1,4 +1,4 @@
-[Live Site](https://corona-tracker-shivam.herokuapp.com/).
+[Live Site](https://corona-tracker-shivam.herokuapp.com/)
 
 
 
